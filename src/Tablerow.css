@@ -1,0 +1,10 @@
+.Tablerow {
+  font-family: inherit;
+  font-size: 18px;
+  color: #595959;
+  font-weight: 400;
+}
+
+.Tablerow-icon span {
+  cursor: pointer;
+}

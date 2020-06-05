@@ -1,0 +1,21 @@
+table {
+  margin-top: 50px;
+  width: 100%;
+  border-collapse: collapse;
+}
+.Table-heading {
+  font-size: 22px;
+  font-weight: 700;
+  font-family: inherit;
+  color: #222;
+}
+
+th {
+  text-align: left;
+}
+
+tr {
+  line-height: 50px;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 1em;
+}

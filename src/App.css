@@ -1,0 +1,7 @@
+.App {
+  max-width: 70%;
+  margin: 0 auto;
+  display: grid;
+  height: 100vh;
+  margin-top: 5em;
+}
