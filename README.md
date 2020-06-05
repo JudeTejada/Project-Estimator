@@ -2,7 +2,8 @@
 
 ## Available Scripts
 
-Install the Dependendies
+[Check It Live Here](https://project-estimator.surge.sh/)
+Install the Dependendies <br />
 `npm install`
 
 ### `npm start`
